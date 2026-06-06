@@ -246,20 +246,15 @@ Track sales performance over time.
 ```
 Retail-Sales-Dashboard/
 │
-├── Dashboard/
-│   ├── Sales Dashboard.twb
-│   └── Sales Dashboard.twbx
+├── Dashboard- Sales Dashboard.twb
 │
-├── Dataset/
-│   └── customer_shopping_data.csv
+├── Dataset- customer_shopping_data.csv
 │
-├── Images/
-│   └── dashboard.png
+├── Images- dashboard.png
 │
 ├── README.md
 │
-└── Documentation/
-    └── Project_Report.pdf
+└── Documentation- Project_Report.pdf
 ```
 
 ---
